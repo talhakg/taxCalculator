@@ -5,6 +5,7 @@ let prov;
 let provTax;
 let deductions;
 let ni;
+
 const cpp = 0.0595;
 const ei = 0.0163;
 const ft = 0.15;
